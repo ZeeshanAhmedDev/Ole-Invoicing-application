@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199257817258",
+    "project_id": "ole-invoicing",
+    "storage_bucket": "ole-invoicing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199257817258:android:40b1968f53d290fb5550d3",
+        "android_client_info": {
+          "package_name": "com.digitaez.ole_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199257817258-m0ur7u7hpsau3jk9aaahium9gpas986q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitaez.ole_app",
+            "certificate_hash": "116c852dc1aa5188b0b07afaceb8c0fe92e9b181"
+          }
+        },
+        {
+          "client_id": "199257817258-6aaptpdvd96tg0r4j33gj6shtvihlefh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMq_d7KXNj7wETfHddKiKui4kLsutuKXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199257817258-6aaptpdvd96tg0r4j33gj6shtvihlefh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
